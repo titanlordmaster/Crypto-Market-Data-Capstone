@@ -1,5 +1,3 @@
-Here’s a full replacement `README.md` you can drop in:
-
 # Crypto Market Data Capstone  
 **Correlation and Inter-Market Analysis of Bitcoin, Ethereum, and Cardano on Binance**
 
